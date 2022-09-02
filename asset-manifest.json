@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/1-Background-color-change-s-React/static/css/main.90be4f65.css",
+    "main.js": "/1-Background-color-change-s-React/static/js/main.740f4ecd.js",
+    "static/js/787.648c1be4.chunk.js": "/1-Background-color-change-s-React/static/js/787.648c1be4.chunk.js",
+    "index.html": "/1-Background-color-change-s-React/index.html",
+    "main.90be4f65.css.map": "/1-Background-color-change-s-React/static/css/main.90be4f65.css.map",
+    "main.740f4ecd.js.map": "/1-Background-color-change-s-React/static/js/main.740f4ecd.js.map",
+    "787.648c1be4.chunk.js.map": "/1-Background-color-change-s-React/static/js/787.648c1be4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90be4f65.css",
+    "static/js/main.740f4ecd.js"
+  ]
+}
